@@ -1,0 +1,17 @@
+{
+  "name": "adventofcode2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ts-watch": "tsc -w",
+    "day1part1": "node ./dist/day1/part1/index.js",
+    "day1part2": "node ./dist/day1/part2/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
