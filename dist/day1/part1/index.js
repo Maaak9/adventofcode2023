@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const puzzleData_1 = require("../../puzzleData");
+const puzzleData_1 = require("../puzzleData");
 const data = puzzleData_1.puzzleData.split("\n");
 const numbers = [];
 data.forEach((line) => {

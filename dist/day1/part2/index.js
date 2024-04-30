@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const puzzleData_1 = require("../../puzzleData");
+const puzzleData_1 = require("../puzzleData");
 const data = puzzleData_1.puzzleData.split("\n");
 const numbers = [];
 const stringToNumber = { one: 1, two: 2, three: 3, four: 4, five: 5, six: 6, seven: 7, eight: 8, nine: 9 };

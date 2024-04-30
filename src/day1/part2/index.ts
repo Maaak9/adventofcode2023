@@ -1,4 +1,4 @@
-import { puzzleData } from "../../puzzleData";
+import { puzzleData } from "../puzzleData";
 
 const data = puzzleData.split("\n");
 
