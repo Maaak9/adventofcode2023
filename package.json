@@ -9,6 +9,10 @@
     "day1part2": "node ./dist/day1/part2/index.js",
     "day2part1": "node ./dist/day2/part1/index.js",
     "day2part2": "node ./dist/day2/part2/index.js",
+    "day3part1": "node ./dist/day3/part1/index.js",
+    "day3part2": "node ./dist/day3/part2/index.js",
+    "day4part1": "node ./dist/day4/part1/index.js",
+    "day4part2": "node ./dist/day4/part2/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
